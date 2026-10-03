@@ -60,7 +60,6 @@ The project combines **Machine Learning**, **Natural Language Processing (NLP)**
 - [📜 Future Enhancements](#-future-enhancements)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
-- [👨‍💻 Author](#-author)
 - [🙏 Acknowledgements](#-acknowledgements)
 
 ---

@@ -9,7 +9,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-red?style=for-the-badge)](https://ai-resume-screening-and-job-matching.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-red?style=for-the-badge)](https://ai-resume-screening-and-job-matching-system.streamlit.app/)
 
 </div>
 
@@ -827,7 +827,7 @@ Follow the steps below to set up the project on your local machine.
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/4kayasitayashu/AI-Resume-Screening-and-Job-Matching-System.git
+git clone https://github.com/govindchaturvedi1995-svg/AI-Resume-Screening-and-Job-Matching-System
 ```
 
 ---
